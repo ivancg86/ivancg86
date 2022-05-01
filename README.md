@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently study **Web applications development**
 
-- 👨‍💻 All of my projects are available at [https://ivancg86.wixsite.com/ivancabanas](https://ivancg86.wixsite.com/ivancabanas)
-
 - 📫 How to reach me **ivancg86@gmail.com**
 
 <p align="left">
